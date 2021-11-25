@@ -1,0 +1,159 @@
+{
+   "sections":[
+      {
+         "name":"About the inspection",
+         "surveyQuestions":[
+            {
+               "questionText":"report name",
+               "questionHelp":"",
+               "sortOrder":1,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"surveyor",
+               "questionHelp":"",
+               "sortOrder":2,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"asssigned to",
+               "questionHelp":"",
+               "sortOrder":3,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"client firstname",
+               "questionHelp":"",
+               "sortOrder":4,
+               "isActive":true,
+               "questionType":"NUMBER",
+               "options":""
+            },
+            {
+               "questionText":"client lastname",
+               "questionHelp":"",
+               "sortOrder":5,
+               "isActive":true,
+               "questionType":"STARS",
+               "options":""
+            },
+            {
+               "questionText":"report reference",
+               "questionHelp":"",
+               "sortOrder":6,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"date of inspection",
+               "questionHelp":"",
+               "sortOrder":7,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"house / building number",
+               "questionHelp":"",
+               "sortOrder":8,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"address line 1",
+               "questionHelp":"",
+               "sortOrder":9,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"address line 2",
+               "questionHelp":"",
+               "sortOrder":10,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"postcode",
+               "questionHelp":"",
+               "sortOrder":11,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"weather conditions",
+               "questionHelp":"",
+               "sortOrder":12,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            },
+            {
+               "questionText":"property status",
+               "questionHelp":"",
+               "sortOrder":13,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            }
+         ]
+      },
+      {
+         "name":"Overall opinion",
+         "surveyQuestions":[
+            {
+               "questionText":"our overall opinion of the property",
+               "questionHelp":"",
+               "sortOrder":1,
+               "isActive":true,
+               "questionType":"TEXT",
+               "options":""
+            }
+         ]
+      },
+      {
+         "name":"About the property",
+         "surveyQuestions":[
+            {
+               "1":2,
+               "type of property":"approximate year property was built",
+               "some help 17":"some help 18",
+               "TRUE":"TRUE",
+               "TEXT":"NUMBER"
+            },
+            {
+               "1":3,
+               "type of property":"approximate year the property was extended",
+               "some help 17":"some help 19",
+               "TRUE":"TRUE",
+               "TEXT":"TEXT"
+            },
+            {
+               "1":4,
+               "type of property":"approximate year the property was converted",
+               "some help 17":"some help 20",
+               "TRUE":"TRUE",
+               "TEXT":"TEXT"
+            },
+            {
+               "1":5,
+               "type of property":"information relevant to flats and maisonettes",
+               "some help 17":"some help 21",
+               "TRUE":"TRUE",
+               "TEXT":"TEXT"
+            }
+         ]
+      }
+   ]
+}
